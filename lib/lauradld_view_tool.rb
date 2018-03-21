@@ -1,5 +1,6 @@
 require "lauradld_view_tool/version"
+require "lauradld_view_tool/renderer"
 
 module LauradldViewTool
-  # Your code goes here...
+
 end

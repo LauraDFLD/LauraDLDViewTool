@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'lauradld_view_tool'
+gem 'lauradld_view_tool' 
 ```
 
 And then execute:

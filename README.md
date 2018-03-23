@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-LauraDLDViewTool::Renderer.copyright 'Laura Daufeld', 'All rights reserved'
+LauradldViewTool::Renderer.copyright 'Laura Daufeld', 'All rights reserved'
 ```
 
 ## Development
